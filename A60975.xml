@@ -1,0 +1,151 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>At the general sessions of the peace holden for the town and borough of Southwark on Monday the 16th. day of May, 1681. before the Right Honorable the Lord Mayor of the City of London, the Recorder of the same city, and other his Maiesties Justices of the Peace for the said town and borough. We the Grand-Jury summoned and sworn for this present sessions of the peace, holden for this town and borough of Southwark, do humbly beseech the Right Honourable the Lord Mayor of the City of London, and the rest of His Majesties Justices of the Peace for the said town and borough, that his Lordship, or some other of his Majesties said Justices of the Peace will be pleased in the behalf of us and of the rest of the inhabitants of the said town and borough, to present to his most sacred Majesty the humble address hereunto annexed.</title>
+            <author>Southwark (London, England). Grand Jury.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A60975</idno>
+            <idno type="STC">Wing S4772A</idno>
+            <idno type="STC">ESTC R220616</idno>
+            <idno type="EEBO-CITATION">99832012</idno>
+            <idno type="PROQUEST">99832012</idno>
+            <idno type="VID">36480</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A60975)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 36480)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2098:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>At the general sessions of the peace holden for the town and borough of Southwark on Monday the 16th. day of May, 1681. before the Right Honorable the Lord Mayor of the City of London, the Recorder of the same city, and other his Maiesties Justices of the Peace for the said town and borough. We the Grand-Jury summoned and sworn for this present sessions of the peace, holden for this town and borough of Southwark, do humbly beseech the Right Honourable the Lord Mayor of the City of London, and the rest of His Majesties Justices of the Peace for the said town and borough, that his Lordship, or some other of his Majesties said Justices of the Peace will be pleased in the behalf of us and of the rest of the inhabitants of the said town and borough, to present to his most sacred Majesty the humble address hereunto annexed.</title>
+                  <author>Southwark (London, England). Grand Jury.</author>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>printed for Benj. Tooke,,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1681]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from colophon.</note>
+                  <note>An address to the King in response to "His Majesties declaration to all his loving subjects touching the causes and reasons that moved him to dissolve the two last Parliaments", given 8 April 1681 (cf. Wing C3000).</note>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  II, --  King of England, 1630-1685 --  Early works to 1800.</term>
+               <term>England and Wales. --  Sovereign (1660-1685 : Charles II). --  His Majesties declaration to all his loving subjects touching the causes and reasons that moved him to dissolve the two last Parliaments --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1660-1714 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:36480:1"/>
+            <pb n="1" facs="tcp:36480:1" rendition="simple:additions"/>
+            <p>
+               <hi>At the General Seſſions of the Peace holden for the Town and Borough of</hi> Southwark, <hi>on</hi> Monday <hi>the 16<hi rend="sup">th.</hi> day of</hi> May, <hi>1681. before the Right Honorable the</hi> Lord Mayor <hi>of the City of</hi> London, <hi>the</hi> Recorder <hi>of the ſame City, and other his Maieſties</hi> Juſtices of the Peace <hi>for the ſaid Town and Borough.</hi>
+            </p>
+            <p>We the <hi>Grand-Jury</hi> Summoned and Sworn for this preſent Seſſions of the Peace, holden for this Town and Borough of <hi>Southwark,</hi> do Humbly Beſeech the Right Honorable the <hi>Lord Mayor</hi> of the City of <hi>London,</hi> and the reſt of His Ma<g ref="char:EOLhyphen"/>jeſties Juſtices of the Peace for the ſaid Town and Borough, that his Lordſhip, or ſome other of his Majeſties ſaid Juſtices of the Peace will be pleaſed in the behalf of us and of the reſt of the Inhabitants of the ſaid Town and Borough, to Preſent to his moſt Sacred Majeſty the <hi>HUMBLE ADDRESS</hi> Hereunto Annexed.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="document">
+                        <head>TO THE Kings moſt Excellent Majeſty,</head>
+                        <opener>
+                           <salute>DREAD SIR,</salute>
+                        </opener>
+                        <p>WE Your Majeſties truly Loyal and Dutiful Subjects, the Grand-Jury of this your Antient Borough, having firſt Humbly begg'd Your Majeſty to Believe that our Appre<g ref="char:EOLhyphen"/>henſions of the Happineſs we enjoy through Your Maje<g ref="char:EOLhyphen"/>ſties Princely Care and Paternal Affection towards us, have always been ſuch as become the Beſt Subjects to entertain under the Benign Influences of the moſt Propitious and Indulgent Monarch; do further Implore Your Majeſty to accept of our moſt proſtrate Acknowledgments of the Royal Grace and Favour of Your Majeſties late Declaration, and to permit us to expreſs how ſenſible we are of our Living under the moſt Deſirable Government in the World.</p>
+                        <p>
+                           <hi>The Proteſtant Religion,</hi> as Eſtabliſh'd by Law, is ſo Dear to us, and our Condition, by the Proviſion of the Stated Laws of the Kingdom, is
+<pb n="2" facs="tcp:36480:2"/>rendred ſo eaſie, that, though we have ever hitherto in all Duty reſted ſilently ſatisfied in Your Majeſties Zeal for both; yet now, if it may pleaſe Your Majeſty, we can no longer forbear to declare to Your Ma<g ref="char:EOLhyphen"/>jeſty, and publiſh to all the World, our grateful ſenſe of Your Majeſties ſo Solemn, ſo Condeſcending, and ſo Gracious a Publication of Your Re<g ref="char:EOLhyphen"/>ſolutions to Maintain the one, and Rule by the other; thereby removing all the juſt Fears and Jealouſies that might ariſe from the Practices of Un<g ref="char:EOLhyphen"/>dermining Papiſts and Factious Republicans.</p>
+                        <p>Your Majeſties Gracious promiſe of calling Frequent Parliaments, is ſo tranſcendent an Obligation upon Us who are reſolved to be the ſame Loyal Subjects in the Intervals of Parliaments as during their Seſſion, that whenever Your Majeſties Wiſdom and Providence ſhall Appoint an Ele<g ref="char:EOLhyphen"/>ction, we ſhall take all poſſible care to chuſe ſuch Repreſentatives as ſhall comply with Your Majeſties Deſigns of Extirpating Popery, and Maintain<g ref="char:EOLhyphen"/>ing the Eſtabliſhed Religion of the Church of <hi>England,</hi> and who ſhall likewiſe be ready to preſent your Majeſty with ſuch Supplies as the Dignity of the Crown, and the Neceſſities of the Government ſhall require.</p>
+                        <p>Your Majeſty is pleaſed to remind us of the late Rebellion in a Manner ſo obliging, and for an End ſo good, as gives a moſt undeniable Teſtimony of Your Majeſties generous Oblivion of the Injuſtice therein done to Your ſelf, and that Your Royal Memory retains only a compaſſionate Impreſ<g ref="char:EOLhyphen"/>ſion of the Miſeries thereby brought upon Your Subjects; ſo that ſhould we not now yield our ſelves up as the Conqueſt of Your Majeſties Good<g ref="char:EOLhyphen"/>neſs, and ſit down contented with our own Happineſs, but contrary to all Your Majeſties Deſires and Counſels fall into the like Guilt and Miſchief again, we ſhould be not only the moſt Ungrateful, but the moſt. Unpitied people in the world: And therefore, as we Your Majeſties ever Loyal Subjects do for our parts with ſhame and ſorrow reflect upon the former Miſcarriages and Calamities, and with the utmoſt Deteſtation and Horror tremble at the thoughts of ever ſeeing the like a ſecond time; ſo we doubt not but that multitudes of deluded and miſled men have, upon the occaſi<g ref="char:EOLhyphen"/>on of Your Majeſties Declaration, ſo effectually conſidered and recolle<g ref="char:EOLhyphen"/>cted the ſeveral ſteps and advances by which they were betray'd into thoſe Confuſions, as to be by this time fully convinced that <hi>true and ſteady Loyalty is the ſureſt Foundation of the Kingdoms Felicity.</hi>
+                        </p>
+                        <p>To this Maxim we declare that we do at preſent firmly ſtand, and that by it we will always act; beſeeching Your Majeſty to be aſſured that our Lives and Fortunes lie at Your Royal Feet, and that we will upon all oc<g ref="char:EOLhyphen"/>caſions be ready to Sacrifice them both in defence of Your Majeſties Sacred Perſon, and the Eſtabliſh'd Government of Church and State.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>Which ADDRESS being Subſcribed by every one of the <hi>Grand-Jury,</hi> was according to their Requeſt Humbly Preſented to His Majeſty in Council at <hi>Ham<g ref="char:EOLhyphen"/>pton-Court</hi> by Sir <hi>George Treby,</hi> Knight, Recorder of the City of <hi>London,</hi> and had a moſt Gracious Acceptance.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>Benj. Tooke,</hi> 1681.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
